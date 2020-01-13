@@ -1,0 +1,45 @@
+body{
+  font-family: monospace;
+  background-color: #FFFFE0;
+}
+.header{
+  margin-left: 5%;
+  border: solid 1px black;
+  width: 40%;
+  background-color: #D3D3D3;
+}
+.content{
+  margin-left: 5%;
+}
+a{
+  font-size: 150%;
+  line-height: 150%;
+  font-family: monospace;
+  color: black;
+}
+a:visited{
+  color: #A52A2A;
+}
+
+p, ol, ul{
+  font-size: 125%;
+}
+h1{
+  font-size: 235%;
+}
+h3, h2{
+  font-size: 150%;
+}
+.reg_auth input{
+  font-size:200%;
+}
+.reg_auth{
+  margin-left: 40%;
+  margin-top: 10%;
+}
+.test{
+  margin-left: 5%;
+}
+.test p,ol,ul{
+  font-size: 100%;
+}
